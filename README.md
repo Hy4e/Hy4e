@@ -22,8 +22,8 @@ Here is something you'll find about my projects I currently work on, who I am an
  User interface editor for SA-MP servers written in C# using SampSharp framework (https://github.com/ikkentim/SampSharp)
 ![image](https://camo.githubusercontent.com/d371165eda4e342ea67672201eabe28ab1a7fe804cd83d24ef95099bd26cdad5/68747470733a2f2f696d6775722e636f6d2f74484c427169472e706e67)
  
-A polish Discord Bot written in pure NodeJS.
-![image](https://github.com/Hy4e/Hy4e/blob/main/Zrzut%20ekranu%20(583).png)
+A polish Discord Bot "Puszek" written in pure NodeJS
+![DiscordBotPreview](https://github.com/Hy4e/Hy4e/blob/main/Zrzut%20ekranu%20(583).png)
 
 
 
