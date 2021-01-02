@@ -25,6 +25,9 @@ Here is something you'll find about my projects I currently work on, who I am an
 A polish Discord Bot "Puszek" written in pure NodeJS
 ![DiscordBotPreview](https://github.com/Hy4e/Hy4e/blob/main/Zrzut%20ekranu%20(583).png)
 
+"Being programmer means knowing how to code in languages that were not been created yet."
+~ me
+
 
 
 
